@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Abdul Khalid </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola Buenas tardes , Soy Michael Mauricio Galindo  </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->A
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
@@ -11,14 +11,14 @@
 
 
 	
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
+- Ingeniero Mecatronico con gran interes en soluciones automatizadas eficientes e innovadoras  
+- 
 - Currently learning Web Development by Self
 - Personal website [link](https://www.0xabdulkhalid.ml)
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
@@ -32,7 +32,7 @@
 
 <p align="center">
 
-- **Languages**:
+- **Lenguajes**:
     
     ![C](https://img.shields.io/badge/C%20-%232370ED.svg?style=for-the-badge&logo=c&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,11 +40,11 @@
 
 <br>   
     
-- **Front-End Development**:
+- **Desarrollo Mecatronico**:
 
-   ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-   ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-   ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![Solidworks]([https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2F1000marcas.net%2Fsolidworks-logo%2F&psig=AOvVaw2-WjIUwHRL4iI-ld2EHhkM&ust=1753895624159000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKDk-sLI4o4DFQAAAAAdAAAAABAE))
+   ![TiaPortal](https://www.google.com/url?sa=i&url=https%3A%2F%2Finnovesys.com%2Fsimatic-tia-portal%2F&psig=AOvVaw1uREYU82y42NkiUFSBNOsn&ust=1753895684729000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMiX1N_I4o4DFQAAAAAdAAAAABAE)
+   ![Matlab][(https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AMatlab_icon.png&psig=AOvVaw3vwo_jWw0gQdemtGlSnt4Q&ust=1753895725294000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKiEo-7I4o4DFQAAAAAdAAAAABAM))
 
 <br>
 
