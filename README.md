@@ -8,7 +8,9 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
-<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+<picture>
+  <img align="right" src="https://seeklogo.com/images/U/universidad-santo-tomas-logo-2638667161-seeklogo.com.png" width="200px" alt="Universidad Santo Tomás Logo"/>
+</picture>
 
 <br>
 
