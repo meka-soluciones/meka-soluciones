@@ -9,8 +9,7 @@
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
 
 <picture>
-  <img align="right" src="https://seeklogo.com/images/U/universidad-santo-tomas-logo-2638667161-seeklogo.com.png" width="200px" alt="Universidad Santo Tomás Logo"/>
-</picture>
+  <img align="right" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Formet.boyaca.gov.co%2F2021%2F09%2F30%2Funiversidad-santo-tomas%2F&psig=AOvVaw2GU-kyRYTUmBcx10ziCHgI&ust=1753897274314000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCLiOsdHO4o4DFQAAAAAdAAAAABAE" width="200px" /> </picture>
 
 <br>
 
