@@ -6,7 +6,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mí**
+## <picture><img src = "[https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif](https://www.flaticon.es/icono-gratis/mecatronica_17156968)" width = 50px></picture> **Sobre mí**
 
 <picture>
   <img align="right" src="https://www.istec.org/blog-miembros/wp-content/uploads/sites/9/2020/09/universidad-santo-tomas.jpg" width="200px" /> </picture>
