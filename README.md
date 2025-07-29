@@ -8,7 +8,6 @@
 
 ## <picture><img src="https://cdn-icons-png.flaticon.com/512/17156/17156968.png" width="50px"></picture> **Sobre mí**
 
-
 <picture>
   <img align="right" src="https://www.istec.org/blog-miembros/wp-content/uploads/sites/9/2020/09/universidad-santo-tomas.jpg" width="200px" /> </picture>
 
@@ -57,9 +56,7 @@
 <br>
 </p>
 
-
 <br>
-
 -----
 
 <br>
@@ -70,24 +67,19 @@
 <div align='left'>
 
 <ul>
-
 <li>
 <a href="mailto:maicoolgalindo@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:-maicoolgalindo@gmail.com-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 </li>
-	
+
 </ul>
 </div>
-
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <div align='center'>
 
 ## <b>Gracias por visitar mi perfil ✨</b>
-
 </div>
-
 ---
